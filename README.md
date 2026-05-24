@@ -133,7 +133,7 @@ Performed SQL analysis using MySQL Workbench:
 ![Heatmap](images/seasonal_ridership_heatmap.png)
 
 ## Streamlit Application
-![Streamlit](images/1. Overview Page.png)
+![Streamlit](images/1_Overview_Page.png)
 
 ---
 
