@@ -1,8 +1,26 @@
 # Delhi Metro Network & Ridership Insights Analysis
 
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ## Overview
 
 The Delhi Metro Network & Ridership Insights project is a complete end-to-end transportation analytics project developed using Python, SQL, Power BI, and Streamlit. The project analyzes 150,000+ Delhi Metro trip records from 2022–2024 to uncover ridership trends, revenue insights, passenger behavior, seasonal patterns, forecasting, and anomaly detection.
+
+---
+
+## Live Demo
+
+🔗 Streamlit App: [https://delhi-metro-ridership.streamlit.app](https://delhi-metro-ridership.streamlit.app/)
+
+---
+
+# Business Problem
+
+Urban transportation systems require accurate ridership analysis and forecasting to improve operational efficiency, passenger management, and revenue planning. This project aims to analyze Delhi Metro passenger behavior, identify seasonal travel patterns, forecast future ridership, and detect unusual anomalies using data analytics and machine learning techniques.
 
 ---
 
@@ -16,6 +34,16 @@ The Delhi Metro Network & Ridership Insights project is a complete end-to-end tr
 - 24-month passenger forecasting implemented
 - Interactive Power BI dashboard created
 - Streamlit web application deployed
+
+---
+
+# Dataset Information
+
+- Dataset Size: 150,000 records
+- Time Period: January 2022 – December 2024
+- Total Columns: 17
+- Original Missing Values: 28,257
+- Data Type: Transportation & Ridership Analytics
 
 ---
 
@@ -124,16 +152,38 @@ Performed SQL analysis using MySQL Workbench:
 # Dashboard Preview
 
 ## Power BI Dashboard
-![Dashboard](images/dashboard_overview_page.png.png)
+![Dashboard](6_images/power_BI_dashboard_screenshots/1_dashboard_Overview_Page.png)
 
 ## Forecasting Output
-![Forecast](images/Future_forecast.png)
+![Forecast](6_images/notebook_screenshots/Future_forecast.png)
 
 ## Heatmap
-![Heatmap](images/seasonal_ridership_heatmap.png)
+![Heatmap](6_images/seasonal_ridership_heatmap.png)
 
 ## Streamlit Application
-![Streamlit](images/1_Overview_Page.png)
+![Streamlit](6_images/streamlit_app_screenshots/1_Overview_Page.png)
+
+---
+
+# Installation & Setup
+
+## Clone Repository
+
+```bash
+git clone https://github.com/kirti-050/delhi-metro-ridership-analysis.git
+```
+
+## Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run Streamlit Application
+
+```bash
+streamlit run app.py
+```
 
 ---
 
@@ -143,12 +193,38 @@ Performed SQL analysis using MySQL Workbench:
 Delhi_Metro_Project/
 │
 ├── data/
-├── notebooks/
+├── notebook/
 ├── dashboard/
 ├── sql_queries/
 ├── streamlit_app/
 ├── images/
-├── README.md
 ├── requirements.txt
-├── app.py
-└── metro_analysis.ipynb
+└── app.py
+'''
+
+---
+
+# Results & Insights
+- Tourism and leisure travel dominate ridership patterns
+- Seasonal passenger behavior was consistently observed
+- Forecasting predicted stable future ridership growth
+- Statistical anomaly detection aligned with theoretical expectations
+
+---
+
+# Future Improvements
+
+- Real-time metro API integration
+- Deep learning forecasting models
+- Interactive GIS metro mapping
+- Live passenger crowd prediction
+- Automated daily forecasting pipeline
+
+---
+
+# Author
+
+## Kirti Srivastava
+
+- LinkedIn: https://www.linkedin.com/in/kirti-srivastava-16a7a3290/
+- GitHub: https://github.com/kirti-050
