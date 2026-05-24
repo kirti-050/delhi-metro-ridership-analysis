@@ -151,16 +151,16 @@ Performed SQL analysis using MySQL Workbench:
 # Dashboard Preview
 
 ## Power BI Dashboard
-![Dashboard](6_images/power_BI_dashboard_screenshots/1_dashboard_Overview_Page.png)
+![Dashboard](Delhi_Metro_Project/6_images/power_BI_dashboard_screenshots/1_dashboard_Overview_Page.png)
 
 ## Forecasting Output
-![Forecast](6_images/notebook_screenshots/Future_forecast.png)
+![Forecast](Delhi_Metro_Project/6_images/notebook_screenshots/Future_forecast.png)
 
 ## Heatmap
-![Heatmap](6_images/seasonal_ridership_heatmap.png)
+![Heatmap](Delhi_Metro_Project/6_images/seasonal_ridership_heatmap.png)
 
 ## Streamlit Application
-![Streamlit](6_images/streamlit_app_screenshots/1_Overview_Page.png)
+![Streamlit](Delhi_Metro_Project/6_images/streamlit_app_screenshots/1_Overview_Page.png)
 
 ---
 
