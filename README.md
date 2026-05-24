@@ -4,7 +4,6 @@
 ![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Overview
 
