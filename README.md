@@ -157,7 +157,7 @@ Performed SQL analysis using MySQL Workbench:
 ![Forecast](Delhi_Metro_Project/6_images/notebook_screenshots/Future_forecast.png)
 
 ## Heatmap
-![Heatmap](Delhi_Metro_Project/6_images/seasonal_ridership_heatmap.png)
+![Heatmap](Delhi_Metro_Project/6_images/notebook_screenshots/seasonal_ridership_heatmap.png)
 
 ## Streamlit Application
 ![Streamlit](Delhi_Metro_Project/6_images/streamlit_app_screenshots/1_Overview_Page.png)
