@@ -124,7 +124,7 @@ Performed SQL analysis using MySQL Workbench:
 # Dashboard Preview
 
 ## Power BI Dashboard
-![Dashboard](images/1. dashboard (Overview Page).png)
+![Dashboard](images/dashboard_overview_page.png.png)
 
 ## Forecasting Output
 ![Forecast](images/Future_forecast.png)
